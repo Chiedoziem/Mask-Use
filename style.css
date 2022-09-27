@@ -1,0 +1,44 @@
+.Heading{
+background-color: blue;
+font-family: 'Ubuntu', sans-serif;
+border-radius: 50px;
+border-width: 0px;
+color: white;
+text-align: center;
+width: 600px;
+}
+.Heading2{
+    background-color: maroon;
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 50px;
+    border-width: 0px;
+    color: white;
+    text-align: center;
+    width: 600px;
+    }
+    .Heading3{
+        background-color: turquoise;
+        font-family: 'Ubuntu', sans-serif;
+        border-radius: 50px;
+        border-width: 0px;
+        color: white;
+        text-align: center;
+        width: 600px;
+        }
+        .Button{
+            background-color: goldenrod;
+            font-family: 'Ubuntu', sans-serif;
+            border-radius: 50px;
+            border-width: 0px;
+            color: white;
+            text-align: center;
+            width: 100px;
+            height: 80px;
+        }
+        body{
+            background-color: green;
+            border-radius: 500px;
+        }
+        .btn btn-info result_para_tag{
+            font-family: 'Ubuntu', sans-serif;
+        }
